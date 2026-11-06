@@ -19,4 +19,4 @@ La mayor parte de mi trabajo está en repositorios privados de Pow*.
 
 ## Contacto
 
-[LinkedIn](https://www.linkedin.com/in/andrea-soteldo) · [Behance](https://www.behance.net/neuro64)
+[Mi web](https://andrea-soteldo.pages.dev) · [LinkedIn](https://www.linkedin.com/in/andrea-soteldo) · [Behance](https://www.behance.net/neuro64)
