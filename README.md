@@ -15,7 +15,7 @@ La mayor parte de mi trabajo está en repositorios privados de Pow*.
 ## Proyectos personales
 
 - **[A Fondo](https://a-fondo.pages.dev)**: juego web de 100 preguntas para conversar entre dos, en cuatro niveles. Diseño, desarrollo y venta propios.
-- **Perfil 16 PF**: corrector web del cuestionario 16 PF. Lee las respuestas desde Excel, calcula los puntajes y arma el perfil gráfico. De acceso restringido.
+- **[Perfil 16 PF](https://github.com/AndreaSoteldo/perfil-16pf-showcase)**: corrector web del cuestionario 16 PF. Lee las respuestas desde Excel, calcula los puntajes y arma el perfil gráfico. De acceso restringido.
 
 ## Contacto
 
